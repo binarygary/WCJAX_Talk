@@ -19,4 +19,10 @@ Explore the idea of developing a niche community and how to influence what peopl
 * What really happened on Main St.
 * Why your niche matters
 * What the heck should you say?
-* 
+* Should you say it even if it seems no one is listening?
+
+High Availability WordPress Hosting: An Introduction
+
+There are a billion and one WordPress hosts.  Some are really good at what they do.  So, why would you consider rolling your own hosting environment?
+We'll go through the basics of what HA means, how to design a fault-tolerant private cloud, and whether the benefits outweigh the time and money investment. Further, we'll frame our decisions in the context of how WordPress expects a "server" to perform.  
+This talk is for anyone that wants to explore HA.
